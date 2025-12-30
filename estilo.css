@@ -527,7 +527,6 @@ html {
 }
 
 .curriculum .fila .item .tipo {
-    display: block;
     color: #1CB698;
     margin-bottom: 10px;
 }
@@ -736,7 +735,7 @@ html {
     top: 40%;
     background-color: #252A2E;
     padding: 20px;
-    max-swidth: 350px;
+    max-width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
